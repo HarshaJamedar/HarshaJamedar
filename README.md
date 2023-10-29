@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">A Tech geek with Zest</h3>
 
-- 🔭 I’m currently working on [My Portfolio Project](https://github.com/HarshaJamedar/My_Portfolio)
+- 🔭 I’m currently working on [My Portfolio Project](https://github.com/HarshaJamedar/myprofile)
 
 - 🌱 I’m currently learning **React.js, Next.js, Tailwind CSS, CNN's, GAN's**
 
