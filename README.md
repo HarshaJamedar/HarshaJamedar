@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">A Tech geek with Zest</h3>
 
-- 🔭 I’m currently working on [My Portfolio Project](https://github.com/HarshaJamedar/myprofile)
+- 🔭 I’m currently working on a project aims to develop an autonomous multi-node networked drone system for videography, addressing challenges in capturing risky shots while ensuring safety and creativity. Leveraging advanced drone control algorithms and object detection models, coupled with a Cinematron model inspired by famous movies, our system will enable drones to autonomously coordinate movements, capture footage from multiple angles, and make real-time cinematography decisions. The project seeks to revolutionize film production by enhancing efficiency, reducing costs, and improving the quality of cinematography.
+- 🔭 Also Working on my Profile [My Portfolio Project](https://github.com/HarshaJamedar/myprofile) to enhance my skills in Next.js and Tailwind CSS, 
 
 - 🌱 I’m currently learning **React.js, Next.js, Tailwind CSS, CNN's, GAN's**
 
