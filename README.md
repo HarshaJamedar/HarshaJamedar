@@ -7,7 +7,7 @@
   
 
   
-- 🔭 Here is my portfolio webiste [My Portfolio Project]([https://github.com/HarshaJamedar/HarshaDev]) developed using Next.js, React, Typescript, Javascript, tailwind CSS, Framer Motion.
+- 🔭 Here is [My Profile](https://harsha-dev.vercel.app/) developed using Next.js, React, Typescript, Javascript, tailwind CSS, Framer Motion.
 
 - 🌱 I’m learning **Robotic Operating System, Computer Vision, Convolutional Neural Networks, Generative Adversial Networks, Vision Learning Models** to incorporate robotics with the generative AI as a part of my final project.
   
