@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">A Tech geek with Zest</h3>
 
-- 👨🏽‍🎓 I have Masters in Computer Science from California State University Fullerton (August 2022 - May 2024), Current CGPA 3.7/4.
+- 👨🏽‍🎓 I'm a Masters graduate in Computer Science at California State University Fullerton (August 2022 - May 2024), with a GPA: 3.74/4.0 .
   
 - 👨🏻‍💻 I'm a FullStack Developer and have a work experience of  3 years with prominent skills in Core Java, Angular, Spring Framework, React, Node js, Express js, JDBC, OracleDb, MySql, Major DevOps tools, Project Management tools.
   
@@ -9,7 +9,7 @@
   
 - 🔭 Here is [My Profile](https://harsha-dev.vercel.app/) developed using Next.js, React, Typescript, Javascript, tailwind CSS, Framer Motion.
 
-- 🌱 I’m learning **Robotic Operating System, Computer Vision, Convolutional Neural Networks, Generative Adversial Networks, Vision Learning Models** to incorporate robotics with the generative AI as a part of my final project.
+- 🌱 I’m learning **Robotic Operating System, Computer Vision, Convolutional Neural Networks, Generative Adversial Networks, Vision Learning Models** to incorporate robotics with the generative AI.
   
 - 📫 How to reach me **harsha_jemedar@csu.fullerton.edu**
 
