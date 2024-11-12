@@ -7,11 +7,11 @@
   
 
   
-- 🔭 Here is [My Profile](https://harsha-dev.vercel.app/) built on Vite and React using Next.js, React UI, Typescript, Javascript, tailwind CSS, Framer Motion.
+- 🔭 Here is [My Profile](https://harsha-dev.vercel.app/) built using Next.js, React components, Typescript, Javascript, tailwind CSS, and Framer Motion.
 
 - 🌱 I’m learning **Robotic Operating Systems, Computer Vision, Convolutional Neural Networks, Generative Adversarial Networks, and Vision Learning Models** to incorporate robotics with generative AI.
   
-- 📫 How to reach me **harsha_jemedar@csu.fullerton.edu**
+- 📫 How to reach me **harshavardhanjemedar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
