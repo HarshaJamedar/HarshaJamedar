@@ -3,7 +3,7 @@
 
 - 👨🏽‍🎓 Masters in Computer Science at California State University Fullerton (August 2022 - May 2024), with a GPA: 3.74/4.0 
   
-- 👨🏻‍💻 I'm a FullStack Developer and have a work experience of  4 years with prominent skills in Core Java, React, Spring Framework, React, Node js, Express js, JDBC, OracleDb, MySql, Major DevOps tools, AWS and Azure Cloud Platforms, Project Management tools.
+- 👨🏻‍💻 I'm a FullStack Developer and have a work experience of  4 years with prominent skills in Core Java, React, Spring Framework, React, Node js, Express js, JDBC, OracleDb, MySql, Major DevOps tools, AWS and Azure Cloud Platforms, Project Management tools. I'm trying to build a profile in Machine Learning operations and Data science by doing real-world applications leveraging the Hugging Face community.
   
 
   
