@@ -3,7 +3,17 @@
 
 - 👨🏽‍🎓 Masters in Computer Science at California State University Fullerton (August 2022 - May 2024), with a GPA: 3.74/4.0 
   
-- 👨🏻‍💻 I'm a FullStack Developer and have a work experience of  4 years with prominent skills in Core Java, React, Spring Framework, React, Node js, Express js, JDBC, OracleDb, MySql, Major DevOps tools, AWS and Azure Cloud Platforms, Project Management tools. I'm trying to build a profile in Machine Learning operations and Data science by doing real-world applications leveraging the Hugging Face community.
+- 🚀 Passionate Software Engineer | Cloud & AI Enthusiast | Building Scalable & Intelligent Systems
+
+- 👨🏻‍💻Welcome to my GitHub! I specialize in designing and developing scalable web applications, optimizing cloud infrastructure, and integrating AI/ML models into production. My expertise spans Java, Spring Boot, Microservices, React, Next.js, Docker, Kubernetes, and AWS, along with machine learning and NLP for intelligent automation. I'm trying to build a profile in Machine Learning operations and Data science by doing real-world applications leveraging the Hugging Face community.
+
+Here, you'll find projects showcasing:
+✅ Full-stack applications using Java, Spring Boot, React, and GraphQL
+✅ Cloud-native development with AWS, Kubernetes, and Terraform
+✅ AI-powered solutions with TensorFlow, Scikit-learn, and NLP (spaCy, NLTK)
+✅ DevOps automation leveraging CI/CD pipelines, Docker, and infrastructure as code
+
+Always open to collaboration and knowledge sharing—let’s build something amazing! Feel free to check out my repositories and reach out!
   
 
   
