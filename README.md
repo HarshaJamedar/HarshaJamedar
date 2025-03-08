@@ -9,10 +9,10 @@
 
 Here, you'll find projects showcasing:
 
--✅ Full-stack applications using Java, Spring Boot, React, and GraphQL
--✅ Cloud-native development with AWS, Kubernetes, and Terraform
--✅ AI-powered solutions with TensorFlow, Scikit-learn, and NLP (spaCy, NLTK)
--✅ DevOps automation leveraging CI/CD pipelines, Docker, and infrastructure as code
+- ✅ Full-stack applications using Java, Spring Boot, React, and GraphQL
+- ✅ Cloud-native development with AWS, Kubernetes, and Terraform
+- ✅ AI-powered solutions with TensorFlow, Scikit-learn, and NLP (spaCy, NLTK)
+- ✅ DevOps automation leveraging CI/CD pipelines, Docker, and infrastructure as code
 
 Always open to collaboration and knowledge sharing—let’s build something amazing! Feel free to check out my repositories and reach out!
   
